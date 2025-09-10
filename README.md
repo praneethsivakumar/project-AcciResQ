@@ -32,7 +32,7 @@ Our system is a self-contained unit built on a simple yet effective architecture
 
 ---
 
-## Virtual Prototype & Demo 🧪
+## Virtual Prototype & Demo 
 
 Since this is a hackathon project, we have created a virtual prototype to demonstrate the core functionality.
 
@@ -59,7 +59,7 @@ The source code for the project is available in the [`src/`](/src/) directory. T
 
 ---
 
-## Future Roadmap 🛣️
+## Future Roadmap 
 
 * **Vehicle Integration:** Integrate with the OBD-II port to retrieve additional vehicle data (e.g., speed, fuel level).
 * **Mobile Application:** Develop a companion app for user configuration and real-time status monitoring.
